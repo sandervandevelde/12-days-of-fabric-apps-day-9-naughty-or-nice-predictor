@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/fabric-app.svg" />
+    <title>Fabric App</title>
+    <!-- Start fetching runtime config in parallel with the app bundle; resolveRayfinConfig() reuses this response. -->
+    <link rel="preload" href="/rayfin.config.json" as="fetch" crossorigin />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
