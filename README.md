@@ -1,4 +1,6 @@
-# Universal App Template
+# Naughty or Nice? · North Pole Arcade
+
+Insert the free token and pull the lever to reveal Santa’s list. Each round draws one question from each of the 50-question banks. Answering “yes” to one moves its outcome from 50% to 55%; doing nothing leaves both outcomes at 50%. The verdict is for fun, and every spin returns a fresh token.
 
 > **⚠️ This repository is under active development.** Features and instructions may change.
 
