@@ -2,6 +2,8 @@
 
 Insert the free token and pull the lever to reveal Santa’s list. Each round draws one question from each of the 50-question banks. Answering “yes” to one moves its outcome from 50% to 55%; doing nothing leaves both outcomes at 50%. The verdict is for fun, and every spin returns a fresh token.
 
+<img width="800" height="820" alt="12 Days of Fabric Apps Day 9 – Naughty-or-Nice Predictor" src="https://github.com/user-attachments/assets/845c11dc-f58b-48f0-8ed5-77e67ce82f94" />
+
 > **⚠️ This repository is under active development.** Features and instructions may change.
 
 This is the workspace template the Rayfin Copilot plugin uses to build Fabric Apps.
